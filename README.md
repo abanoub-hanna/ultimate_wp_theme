@@ -23,6 +23,7 @@ The Ultimate WordPress Theme
 - visitors reaction (like love hate good bad ..)
 - lossless compression for images
 - resize huge images to fit the size needed for
+- read for me (read post loud)
 
 ## Support
 Feel free to send **pull requests** and write **issues**.
