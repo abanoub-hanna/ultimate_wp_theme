@@ -18,6 +18,10 @@ The Ultimate WordPress Theme
 - block editor
 - html editor
 
+## Languages
+- rtl and ltr
+- tested for English and Arabic.
+
 ## Ideas & Philosophies & Techniques
 - Serve cached static pages generated when dynamic pages edited
 - AMP : accelerated mobile pages
