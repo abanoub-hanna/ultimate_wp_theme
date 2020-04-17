@@ -11,6 +11,7 @@ The Ultimate WordPress Theme
 - search engine optimization / SEO
 - social media optimized / sharing optimized
 - related posts / see more
+- sitemap generator script
 
 ## Editors:
 - markdown : GitHub-like md.
