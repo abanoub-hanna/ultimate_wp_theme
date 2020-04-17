@@ -21,3 +21,4 @@ Serve cached static pages generated when dynamic pages edited.
 - visitors reaction (like love hate good bad ..)
 - lossless compression for images
 - resize huge images to fit the size needed for
+- related posts / see more
