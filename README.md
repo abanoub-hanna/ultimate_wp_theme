@@ -30,5 +30,8 @@ The Ultimate WordPress Theme
 - resize huge images to fit the size needed for
 - read for me (read post loud)
 
+## Website Use The Ultimate WordPress Theme
+1. [LearnS7.com](https://learns7.com) : as soon as theme reaches v1.0
+
 ## Support
 Feel free to send **pull requests** and write **issues**.
