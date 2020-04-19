@@ -537,9 +537,10 @@ nav, main {border-right: 1px solid #eee;}
     border-bottom: 1px solid #eee;
     margin: 8px 0;
     padding-bottom: 8px;
-    height: 240px;
+    max-height: 240px;
     overflow: hidden;
 }
+.post-content {max-width: 100%;}
 .post img {
     width: 100%;
     position: relative;
@@ -721,8 +722,11 @@ tr a:hover {
     height: 40px;
     display: flex;
     justify-content: space-between;
-}
+}٫٫
 .prevpage, .nextpage {
     background-color: #eee;
     padding: 14px;
+}
+.post-content p {
+    margin-bottom: 8px;
 }
